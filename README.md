@@ -82,7 +82,7 @@ customer-segmentation-rfm/
 ├── notebooks/
 │ └── customer_segmentation_rfm.ipynb
 ├── report/
-│ └── Customer Segmentation using RFM.pdf
+│ └── Customer_Segmentation_using_RFM_Analysis.pdf
 └── README.md
 ```
 
