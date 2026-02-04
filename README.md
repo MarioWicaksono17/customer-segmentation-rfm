@@ -24,7 +24,7 @@ This project answers the question:
 ---
 
 ## 🧪 Dataset
-- Online Retail Transaction Dataset
+- [Retail Transactions: Online Sales Dataset (Year 2010-2011)](https://www.kaggle.com/datasets/shashanks1202/retail-transactions-online-sales-dataset)
 - Transaction-level data including invoice date, quantity, unit price, and customer ID
 
 ---
