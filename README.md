@@ -69,12 +69,14 @@ This project answers the question:
 ---
 
 ## 📁 Project Structure
+'''
 customer-segmentation-rfm/
 ├── data/
 ├── notebooks/
 ├── dashboard/
 ├── report/
 └── README.md
+'''
 
 ---
 
@@ -84,5 +86,11 @@ customer-segmentation-rfm/
 ---
 
 ## 👤 Author
-Mario Suryowisnu Waciksono  
-Data Analyst
+Mario Suryowisnu Wicaksono
+Data Analyst | Tech Enthusiast
+
+LinkedIn: www.linkedin.com/in/marioswicaksono
+
+CV: marioswicaksono
+
+Portfolio: marioswicaksono
