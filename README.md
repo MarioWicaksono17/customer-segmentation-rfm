@@ -69,14 +69,14 @@ This project answers the question:
 ---
 
 ## 📁 Project Structure
-'''
+```
 customer-segmentation-rfm/
 ├── data/
 ├── notebooks/
 ├── dashboard/
 ├── report/
 └── README.md
-'''
+```
 
 ---
 
