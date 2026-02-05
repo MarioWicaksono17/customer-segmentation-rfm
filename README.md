@@ -102,19 +102,3 @@ Data Analyst | Tech Enthusiast
 **CV:** *[marioswicaksono](https://www.canva.com/design/DAGlhKwckaQ/vjIw_6NJgrAEq4hVCdpEUw/view?utm_content=DAGlhKwckaQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9dd2c26e9d)*
 
 **Portfolio:** *[marioswicaksono](https://www.canva.com/design/DAG38LX1BGw/e-P9BGpUdkNq5SU0OLRN3Q/edit?utm_content=DAG38LX1BGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)*
-
-
-## 🚀 How to Run
-
-1. Create PostgreSQL database:
-   ```sql
-   CREATE DATABASE etl_transactions_db;
-2. Create tables using the provided schema
-3. (Optional) Truncate fact table before reload:
-   ```sql
-   TRUNCATE TABLE fact_transactions RESTART IDENTITY;
-4. Run ETL pipeline:
-   ```bash 
-   python scripts/load_to_db.py
-   ```
----
