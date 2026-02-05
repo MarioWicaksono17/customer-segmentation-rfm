@@ -104,17 +104,18 @@ Data Analyst | Tech Enthusiast
 **Portfolio:** *[marioswicaksono](https://www.canva.com/design/DAG38LX1BGw/e-P9BGpUdkNq5SU0OLRN3Q/edit?utm_content=DAG38LX1BGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)*
 
 
-# 🚀 How to Run
+## 🚀 How to Run
 
 1. Create PostgreSQL database:
    ```sql
    CREATE DATABASE etl_transactions_db;
 2. Create tables using the provided schema
+- Create dimension and fact tables in PostgreSQL before running the pipeline.
 3. (Optional) Truncate fact table before reload:
    ```sql
    TRUNCATE TABLE fact_transactions RESTART IDENTITY;
 4. Run ETL pipeline:
 ```bash 
-python scripts/load_to_db.py
+   python scripts/load_to_db.py
 ```
 ---
