@@ -110,12 +110,11 @@ Data Analyst | Tech Enthusiast
    ```sql
    CREATE DATABASE etl_transactions_db;
 2. Create tables using the provided schema
-   - Create dimension and fact tables in PostgreSQL before running the pipeline.
 3. (Optional) Truncate fact table before reload:
    ```sql
    TRUNCATE TABLE fact_transactions RESTART IDENTITY;
 4. Run ETL pipeline:
-```bash 
+   ```bash 
    python scripts/load_to_db.py
-```
+   ```
 ---
