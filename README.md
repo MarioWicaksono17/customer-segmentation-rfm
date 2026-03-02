@@ -1,12 +1,12 @@
 # Customer Segmentation using RFM Analysis and Clustering
 
-## 📌 Project Overview
+## Project Overview
 This project aims to segment customers based on their purchasing behavior using **RFM (Recency, Frequency, Monetary) analysis** and **K-Means clustering**.  
 The goal is to generate actionable customer segments that can support marketing, retention, and revenue optimization strategies.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 Businesses often struggle to understand which customers drive the most value and which are at risk of churn.  
 This project answers the question:
 
@@ -14,7 +14,7 @@ This project answers the question:
 
 ---
 
-## 🧠 Analytical Approach
+## Analytical Approach
 1. Data cleaning and preprocessing
 2. Feature engineering using RFM metrics
 3. Customer segmentation using K-Means clustering
@@ -23,13 +23,13 @@ This project answers the question:
 
 ---
 
-## 🧪 Dataset
+## Dataset
 - [Retail Transactions: Online Sales Dataset (Year 2010-2011)](https://www.kaggle.com/datasets/shashanks1202/retail-transactions-online-sales-dataset)
 - Transaction-level data including invoice date, quantity, unit price, and customer ID
 
 ---
 
-## 📊 Customer Segments Identified
+## Customer Segments Identified
 - **High Value Customers**  
   Customers with high purchase frequency, high monetary value, and recent activity.
 
@@ -44,7 +44,7 @@ This project answers the question:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - A small number of customers contribute disproportionately high revenue.
 - Most revenue volume comes from regular customers due to scale.
 - High Value and Loyal customers require retention-focused strategies.
@@ -52,7 +52,7 @@ This project answers the question:
 
 ---
 
-## 🚀 Business Recommendations
+## Business Recommendations
 - **High Value Customers:** Priority service, exclusive offers, retention programs  
 - **Loyal Customers:** Upselling and cross-selling opportunities  
 - **Regular Customers:** Engagement campaigns to increase loyalty  
@@ -60,7 +60,7 @@ This project answers the question:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python (Pandas, Scikit-learn)
 - Google Colab
 - Power BI
@@ -68,7 +68,7 @@ This project answers the question:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 customer-segmentation-rfm/
 ├── dashboard/
@@ -93,7 +93,7 @@ customer-segmentation-rfm/
 
 ---
 
-## 👤 Author
+## Author
 Mario Suryowisnu Wicaksono
 Data Analyst | Tech Enthusiast
 
